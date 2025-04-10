@@ -1,9 +1,10 @@
 ### **README.md**  
 
 ```markdown
-# Diabetes Detection Project  
+# Diabetes Detection Model  
 
-This project uses Logistic Regression, a supervised machine learning algorithm, to predict whether an individual is diabetic or non-diabetic based on medical data. The model processes input features, trains on labeled data, and provides an interactive predictive system.  
+This project uses Logistic Regression, a supervised machine learning algorithm, to predict whether an individual is diabetic or non-diabetic based on medical data.
+The model processes input features, trains on labeled data, and provides an interactive predictive system.  
 
 ---
 
